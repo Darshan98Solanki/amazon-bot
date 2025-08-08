@@ -170,7 +170,7 @@ def click_on_next_button(new_page, job_data):
     try:
         print("🔄 Waiting for page to load...")
         # Quick load check - don't wait for networkidle
-        new_page.wait_for_load_state('domcontentloaded', timeout=5000)
+        new_page.wait_for_load_state('domcontentloaded', timeout=2000)
         time.sleep(1)  # Give more time for dynamic content to load
 
         # Wait for Next button with faster approach
@@ -268,7 +268,7 @@ def click_on_next_button(new_page, job_data):
     try:
         print("🔄 Looking for 'Create Application' button...")
         # Give more time after Next button click
-        time.sleep(3)
+        time.sleep(1)
 
         # Try multiple selectors for Create Application button with shorter timeouts
         create_button = None
@@ -285,7 +285,7 @@ def click_on_next_button(new_page, job_data):
         ]
 
         # Quick polling approach - check every 500ms instead of long waits
-        max_attempts = 15  # 7.5 seconds total
+        max_attempts = 20  # 10 seconds total
         attempt = 0
 
         while attempt < max_attempts:
@@ -314,7 +314,7 @@ def click_on_next_button(new_page, job_data):
             # Multiple click strategies
             try:
                 create_button.scroll_into_view_if_needed()
-                time.sleep(1)
+                # time.sleep(1)
                 create_button.click()
                 print("✅ Create Application button clicked with normal click")
                 time.sleep(3)  # Wait longer to see if it processes
@@ -400,7 +400,7 @@ with sync_playwright() as p:
         page.reload()
         try:
             page.wait_for_selector(
-                'div.hvh-careers-emotion-1lp5dlv', timeout=8000)
+                'div.hvh-careers-emotion-1lp5dlv', timeout=5000)
             job_cards = page.query_selector_all(
                 'div.hvh-careers-emotion-1lp5dlv')
             found = False
@@ -451,7 +451,7 @@ with sync_playwright() as p:
                     try:
                         print("🔄 Waiting for Apply button...")
                         page.wait_for_selector(
-                            '[data-test-id="jobDetailApplyButtonDesktop"]:not([disabled])', timeout=7000)
+                            '[data-test-id="jobDetailApplyButtonDesktop"]:not([disabled])', timeout=3000)
                         apply_button = page.query_selector(
                             '[data-test-id="jobDetailApplyButtonDesktop"]')
 
@@ -460,7 +460,7 @@ with sync_playwright() as p:
 
                             # Scroll to the apply button
                             apply_button.scroll_into_view_if_needed()
-                            time.sleep(2)  # Give time for any animations
+                            # time.sleep(2)  # Give time for any animations
 
                             # Set up page listener before clicking
                             with context.expect_page() as new_page_info:
@@ -494,7 +494,7 @@ with sync_playwright() as p:
                                     new_page.close()  # Close the failed page
                                 except:
                                     pass
-                                time.sleep(2)  # Brief pause before retry
+                                time.sleep(1)  # Brief pause before retry
                                 continue
                         else:
                             print(
