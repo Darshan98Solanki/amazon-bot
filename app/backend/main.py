@@ -8,7 +8,7 @@ from utils.imports.constants import COMMON_HEADERS as headers
 from utils.imports.check_token import is_token_valid
 
 url = 'https://e5mquma77feepi2bdn4d6h3mpu.appsync-api.us-east-1.amazonaws.com/graphql'
-EXTRACTED_JOBS_PATH = "logs/extracted_jobs.json"
+EXTRACTED_JOBS_PATH = r"amazon-bot\app\backend\logs\extracted_jobs.json"
 
 def load_extracted_jobs():
     if os.path.exists(EXTRACTED_JOBS_PATH):
@@ -40,9 +40,9 @@ def job_info_from_card(job):
     return info
 
 async def main_loop():
-    if not is_token_valid(headers.get('authorization')):
-        print("Invalid token. Please update AUTH_TOKEN in constants.py.")
-        return
+    # if not is_token_valid(headers.get('authorization')):
+    #     print("Invalid token. Please update AUTH_TOKEN in constants.py.")
+    #     return
 
     print("Starting job monitoring loop...")
     extracted_jobs = load_extracted_jobs()
