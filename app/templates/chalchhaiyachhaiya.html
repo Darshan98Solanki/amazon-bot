@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Sessions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .table-container {
+            background: #fff;
+            padding: 2rem 2.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+            width: 100%;
+            max-width: 500px;
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 1.5rem;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 1rem;
+            font-size: 1rem;
+        }
+        th, td {
+            padding: 0.7rem;
+            border-bottom: 1px solid #eee;
+            text-align: left;
+        }
+        th {
+            background: #f0f0f0;
+            color: #333;
+        }
+        tr:last-child td {
+            border-bottom: none;
+        }
+        button {
+            padding: 0.4rem 1rem;
+            border: none;
+            border-radius: 4px;
+            font-size: 0.95rem;
+            cursor: pointer;
+        }
+        .remove-btn {
+            background: #d32f2f;
+            color: #fff;
+        }
+        .remove-btn:hover {
+            background: #b71c1c;
+        }
+        .start-btn {
+            background: #007bff;
+            color: #fff;
+        }
+        .start-btn:hover {
+            background: #0056b3;
+        }
+        @media (max-width: 600px) {
+            .table-container {
+                padding: 1rem;
+                max-width: 98vw;
+            }
+            table, th, td {
+                font-size: 0.9rem;
+            }
+            h2 {
+                font-size: 1.1rem;
+            }
+        }
+        .tabs {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-bottom: 1.5rem;
+            margin-top: -1.5rem;
+        }
+        .tab-btn {
+            background: #e0e0e0;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 4px 4px 0 0;
+            font-size: 1rem;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .tab-btn.active {
+            background: #fff;
+            border-bottom: 2px solid #007bff;
+            color: #007bff;
+        }
+        .tab-content {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="table-container">
+        <div class="tabs">
+            <button class="tab-btn active users" onclick="showTab('users')">Users</button>
+            <button class="tab-btn locations" onclick="showTab('locations')">Locations</button>
+        </div>
+        <div id="users-tab" class="tab-content" style="display:block;">
+            <h2>User Sessions</h2>
+            {% if success %}
+            <div style="color: #388e3c; text-align: center; margin-bottom: 1rem; font-weight: bold;">{{ success }}</div>
+            {% endif %}
+            <table>
+                <thead>
+                    <tr>
+                        <th>Username</th>
+                        <th>Location</th>
+                        <th>Location Code</th>
+                        <th>Remove</th>
+                        <th>Start</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for session in sessions %}
+                    <tr>
+                        <td>{{ session.username }}</td>
+                        <td>{{ session.location }}</td>
+                        <td>{{ session.location_code }}</td>
+                        <td>
+                            <form method="post" action="/remove-user" style="display:inline;">
+                                <input type="hidden" name="username" value="{{ session.username }}">
+                                <button type="submit" class="remove-btn">Remove</button>
+                            </form>
+                        </td>
+                        <td>
+                            <form method="post" action="/start-user" style="display:inline;">
+                                <input type="hidden" name="username" value="{{ session.username }}">
+                                <button type="submit" class="start-btn">Start</button>
+                            </form>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div id="locations-tab" class="tab-content" style="display:none;">
+            <h2 style="text-align:center;">Add Location</h2>
+            {% if location_success %}
+            <div style="color: {% if 'already exists' in location_success %}#d32f2f{% else %}#388e3c{% endif %}; text-align: center; margin-bottom: 1rem; font-weight: bold;">{{ location_success }}</div>
+            {% endif %}
+            <form method="post" action="/add-location" style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; align-items:center;">
+                <label for="loc_name" style="margin-bottom:0;">Location Name</label>
+                <input type="text" id="loc_name" name="loc_name" required style="width:120px;">
+                <label for="loc_code" style="margin-bottom:0;">Location Code</label>
+                <input type="text" id="loc_code" name="loc_code" required style="width:80px;">
+                <button type="submit" class="start-btn">Add Location</button>
+            </form>
+        </div>
+    </div>
+    <script>
+        function showTab(tab) {
+            document.getElementById('users-tab').style.display = tab === 'users' ? 'block' : 'none';
+            document.getElementById('locations-tab').style.display = tab === 'locations' ? 'block' : 'none';
+            var btns = document.getElementsByClassName('tab-btn');
+            for (var i = 0; i < btns.length; i++) {
+                btns[i].classList.remove('active');
+            }
+            document.querySelector('.tab-btn.' + tab).classList.add('active');
+        }
+    </script>
+</body>
+</html>

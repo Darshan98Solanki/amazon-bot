@@ -1,0 +1,3099 @@
+[
+  {
+    "jobId": "JOB-US-0000011548",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FULL_TIME",
+    "employmentType": "Seasonal",
+    "city": "Hooksett",
+    "state": "NH",
+    "postalCode": "03106",
+    "locationName": "Hooksett, NH",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604729",
+        "jobId": "JOB-US-0000011548",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 40,
+        "city": "Hooksett",
+        "state": "NH",
+        "postalCode": "03106",
+        "basePayL10N": "$20.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$22.00",
+        "firstDayOnSiteL10N": "2025-08-22"
+      },
+      {
+        "scheduleId": "SCH-US-0000603054",
+        "jobId": "JOB-US-0000011548",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-13",
+        "hoursPerWeek": 40,
+        "city": "Hooksett",
+        "state": "NH",
+        "postalCode": "03106",
+        "basePayL10N": "$20.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$22.00",
+        "firstDayOnSiteL10N": "2025-08-14"
+      },
+      {
+        "scheduleId": "SCH-US-0000604594",
+        "jobId": "JOB-US-0000011548",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-22",
+        "hoursPerWeek": 40,
+        "city": "Hooksett",
+        "state": "NH",
+        "postalCode": "03106",
+        "basePayL10N": "$20.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$21.50",
+        "firstDayOnSiteL10N": "2025-08-23"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010385",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Anchorage",
+    "state": "AK",
+    "postalCode": "99518",
+    "locationName": "Anchorage, AK",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604845",
+        "jobId": "JOB-US-0000010385",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Anchorage",
+        "state": "AK",
+        "postalCode": "99518",
+        "basePayL10N": "$21.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$21.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000013084",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FULL_TIME;REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Westhampton Beach",
+    "state": "NY",
+    "postalCode": "11978",
+    "locationName": "Westhampton Beach, NY"
+  },
+  {
+    "jobId": "JOB-US-0000011055",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Burlington",
+    "state": "WA",
+    "postalCode": "98233",
+    "locationName": "Burlington, WA"
+  },
+  {
+    "jobId": "JOB-US-0000011550",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Nashua",
+    "state": "NH",
+    "postalCode": "03063",
+    "locationName": "Nashua, NH"
+  },
+  {
+    "jobId": "JOB-US-0000010640",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FULL_TIME",
+    "employmentType": "Seasonal",
+    "city": "Greenville",
+    "state": "WI",
+    "postalCode": "54942",
+    "locationName": "Greenville, WI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604728",
+        "jobId": "JOB-US-0000010640",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-11",
+        "hoursPerWeek": 40,
+        "city": "Greenville",
+        "state": "WI",
+        "postalCode": "54942",
+        "basePayL10N": "$18.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.75",
+        "firstDayOnSiteL10N": "2025-08-12"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010647",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Weston",
+    "state": "WI",
+    "postalCode": "54476",
+    "locationName": "Weston, WI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605157",
+        "jobId": "JOB-US-0000010647",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-22",
+        "hoursPerWeek": 19,
+        "city": "Weston",
+        "state": "WI",
+        "postalCode": "54476",
+        "basePayL10N": "$19.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.25",
+        "firstDayOnSiteL10N": "2025-08-26"
+      },
+      {
+        "scheduleId": "SCH-US-0000605022",
+        "jobId": "JOB-US-0000010647",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Weston",
+        "state": "WI",
+        "postalCode": "54476",
+        "basePayL10N": "$19.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.25",
+        "firstDayOnSiteL10N": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011073",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Waynesboro",
+    "state": "VA",
+    "postalCode": "22980",
+    "locationName": "Waynesboro, VA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604904",
+        "jobId": "JOB-US-0000011073",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Waynesboro",
+        "state": "VA",
+        "postalCode": "22980",
+        "basePayL10N": "$19.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.00",
+        "firstDayOnSiteL10N": "2025-08-28"
+      },
+      {
+        "scheduleId": "SCH-US-0000605063",
+        "jobId": "JOB-US-0000011073",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-25",
+        "hoursPerWeek": 19,
+        "city": "Waynesboro",
+        "state": "VA",
+        "postalCode": "22980",
+        "basePayL10N": "$19.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.00",
+        "firstDayOnSiteL10N": "2025-08-29"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015112",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Fergus Falls",
+    "state": "MN",
+    "postalCode": "56537",
+    "locationName": "Fergus Falls, MN",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604890",
+        "jobId": "JOB-US-0000015112",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-16",
+        "hoursPerWeek": 19,
+        "city": "Fergus Falls",
+        "state": "MN",
+        "postalCode": "56537",
+        "basePayL10N": "$19.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.00",
+        "firstDayOnSiteL10N": "2025-08-20"
+      },
+      {
+        "scheduleId": "SCH-US-0000605033",
+        "jobId": "JOB-US-0000015112",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Fergus Falls",
+        "state": "MN",
+        "postalCode": "56537",
+        "basePayL10N": "$19.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.00",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010556",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Missoula",
+    "state": "MT",
+    "postalCode": "59808",
+    "locationName": "Missoula, MT",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000603361",
+        "jobId": "JOB-US-0000010556",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-16",
+        "hoursPerWeek": 19,
+        "city": "Missoula",
+        "state": "MT",
+        "postalCode": "59808",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-20"
+      },
+      {
+        "scheduleId": "SCH-US-0000604924",
+        "jobId": "JOB-US-0000010556",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Missoula",
+        "state": "MT",
+        "postalCode": "59808",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      },
+      {
+        "scheduleId": "SCH-US-0000603200",
+        "jobId": "JOB-US-0000010556",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-18",
+        "hoursPerWeek": 19,
+        "city": "Missoula",
+        "state": "MT",
+        "postalCode": "59808",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-22"
+      },
+      {
+        "scheduleId": "SCH-US-0000604980",
+        "jobId": "JOB-US-0000010556",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-25",
+        "hoursPerWeek": 19,
+        "city": "Missoula",
+        "state": "MT",
+        "postalCode": "59808",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-29"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011743",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Bad Axe",
+    "state": "MI",
+    "postalCode": "48413",
+    "locationName": "Bad Axe, MI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605137",
+        "jobId": "JOB-US-0000011743",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Bad Axe",
+        "state": "MI",
+        "postalCode": "48413",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      },
+      {
+        "scheduleId": "SCH-US-0000604998",
+        "jobId": "JOB-US-0000011743",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-16",
+        "hoursPerWeek": 19,
+        "city": "Bad Axe",
+        "state": "MI",
+        "postalCode": "48413",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-20"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011990",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Eau Claire",
+    "state": "WI",
+    "postalCode": "54703",
+    "locationName": "Eau Claire, WI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604942",
+        "jobId": "JOB-US-0000011990",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Eau Claire",
+        "state": "WI",
+        "postalCode": "54703",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014030",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Gypsum",
+    "state": "CO",
+    "postalCode": "81637",
+    "locationName": "Gypsum, CO",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000603206",
+        "jobId": "JOB-US-0000014030",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-22",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-26"
+      },
+      {
+        "scheduleId": "SCH-US-0000602376",
+        "jobId": "JOB-US-0000014030",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-18",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-22"
+      },
+      {
+        "scheduleId": "SCH-US-0000602646",
+        "jobId": "JOB-US-0000014030",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-15",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-19"
+      },
+      {
+        "scheduleId": "SCH-US-0000602628",
+        "jobId": "JOB-US-0000014030",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-10",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-14"
+      },
+      {
+        "scheduleId": "SCH-US-0000602185",
+        "jobId": "JOB-US-0000014030",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-12",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-16"
+      },
+      {
+        "scheduleId": "SCH-US-0000604901",
+        "jobId": "JOB-US-0000014030",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-25",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-29"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014035",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Gypsum",
+    "state": "CO",
+    "postalCode": "81637",
+    "locationName": "Gypsum, CO",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000602370",
+        "jobId": "JOB-US-0000014035",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-17",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-21"
+      },
+      {
+        "scheduleId": "SCH-US-0000600243",
+        "jobId": "JOB-US-0000014035",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-11",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-15"
+      },
+      {
+        "scheduleId": "SCH-US-0000603360",
+        "jobId": "JOB-US-0000014035",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-25"
+      },
+      {
+        "scheduleId": "SCH-US-0000603227",
+        "jobId": "JOB-US-0000014035",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-28"
+      },
+      {
+        "scheduleId": "SCH-US-0000600090",
+        "jobId": "JOB-US-0000014035",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-09",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-13"
+      },
+      {
+        "scheduleId": "SCH-US-0000602261",
+        "jobId": "JOB-US-0000014035",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-14",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-08-18"
+      },
+      {
+        "scheduleId": "SCH-US-0000605210",
+        "jobId": "JOB-US-0000014035",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-09-01"
+      },
+      {
+        "scheduleId": "SCH-US-0000604957",
+        "jobId": "JOB-US-0000014035",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-31",
+        "hoursPerWeek": 19,
+        "city": "Gypsum",
+        "state": "CO",
+        "postalCode": "81637",
+        "basePayL10N": "$21.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$21.00",
+        "firstDayOnSiteL10N": "2025-09-04"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014733",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Jackson",
+    "state": "WY",
+    "postalCode": "83001",
+    "locationName": "Jackson, WY",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000603403",
+        "jobId": "JOB-US-0000014733",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-13",
+        "hoursPerWeek": 19,
+        "city": "Jackson",
+        "state": "WY",
+        "postalCode": "83001",
+        "basePayL10N": "$19.50",
+        "signOnBonusL10N": "$3000",
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-08-17"
+      },
+      {
+        "scheduleId": "SCH-US-0000604996",
+        "jobId": "JOB-US-0000014733",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-20",
+        "hoursPerWeek": 19,
+        "city": "Jackson",
+        "state": "WY",
+        "postalCode": "83001",
+        "basePayL10N": "$19.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014731",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Frisco",
+    "state": "CO",
+    "postalCode": "80443",
+    "locationName": "Frisco, CO",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604956",
+        "jobId": "JOB-US-0000014731",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-20",
+        "hoursPerWeek": 19,
+        "city": "Frisco",
+        "state": "CO",
+        "postalCode": "80443",
+        "basePayL10N": "$18.25",
+        "signOnBonusL10N": "$1000",
+        "totalPayRateL10N": "$18.25",
+        "firstDayOnSiteL10N": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000012390",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Fairbanks",
+    "state": "AK",
+    "postalCode": "99709",
+    "locationName": "Fairbanks, Alaska",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605188",
+        "jobId": "JOB-US-0000012390",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Fairbanks",
+        "state": "AK",
+        "postalCode": "99709",
+        "basePayL10N": "$21.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$21.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014729",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Basalt",
+    "state": "CO",
+    "postalCode": "81621",
+    "locationName": "Basalt, CO",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000603526",
+        "jobId": "JOB-US-0000014729",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-16",
+        "hoursPerWeek": 19,
+        "city": "Basalt",
+        "state": "CO",
+        "postalCode": "81621",
+        "basePayL10N": "$20.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$20.25",
+        "firstDayOnSiteL10N": "2025-08-20"
+      },
+      {
+        "scheduleId": "SCH-US-0000605090",
+        "jobId": "JOB-US-0000014729",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Basalt",
+        "state": "CO",
+        "postalCode": "81621",
+        "basePayL10N": "$20.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$20.25",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011553",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Wilmington",
+    "state": "MA",
+    "postalCode": "01887",
+    "locationName": "Wilmington, MA"
+  },
+  {
+    "jobId": "JOB-US-0000011601",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Plymouth",
+    "state": "MA",
+    "postalCode": "02360",
+    "locationName": "Plymouth, MA"
+  },
+  {
+    "jobId": "JOB-US-0000012432",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Fallon",
+    "state": "NV",
+    "postalCode": "89406",
+    "locationName": "Fallon, NV",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605078",
+        "jobId": "JOB-US-0000012432",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Fallon",
+        "state": "NV",
+        "postalCode": "89406",
+        "basePayL10N": "$19.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000013051",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Belgrade",
+    "state": "MT",
+    "postalCode": "59714",
+    "locationName": "Belgrade, MT",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604830",
+        "jobId": "JOB-US-0000013051",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Belgrade",
+        "state": "MT",
+        "postalCode": "59714",
+        "basePayL10N": "$19.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014220",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Tillamook",
+    "state": "OR",
+    "postalCode": "97141",
+    "locationName": "Tillamook, OR",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605216",
+        "jobId": "JOB-US-0000014220",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Tillamook",
+        "state": "OR",
+        "postalCode": "97141",
+        "basePayL10N": "$19.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000012307",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Reno",
+    "state": "NV",
+    "postalCode": "89506",
+    "locationName": "Reno, NV"
+  },
+  {
+    "jobId": "JOB-US-0000014781",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "BEND",
+    "state": "OR",
+    "postalCode": "97701",
+    "locationName": "BEND, OR",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000603481",
+        "jobId": "JOB-US-0000014781",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-13",
+        "hoursPerWeek": 19,
+        "city": "BEND",
+        "state": "OR",
+        "postalCode": "97701",
+        "basePayL10N": "$19.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.00",
+        "firstDayOnSiteL10N": "2025-08-17"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000013077",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Duluth",
+    "state": "MN",
+    "postalCode": "55808",
+    "locationName": "Duluth, MN",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000603373",
+        "jobId": "JOB-US-0000013077",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-14",
+        "hoursPerWeek": 19,
+        "city": "Duluth",
+        "state": "MN",
+        "postalCode": "55808",
+        "basePayL10N": "$18.75",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.75",
+        "firstDayOnSiteL10N": "2025-08-18"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010641",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "La Crosse",
+    "state": "WI",
+    "postalCode": "54603",
+    "locationName": "La Crosse, WI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605043",
+        "jobId": "JOB-US-0000010641",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "La Crosse",
+        "state": "WI",
+        "postalCode": "54603",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011137",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Billings",
+    "state": "MT",
+    "postalCode": "59101",
+    "locationName": "Billings, MT",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605064",
+        "jobId": "JOB-US-0000011137",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Billings",
+        "state": "MT",
+        "postalCode": "59101",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011831",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "GAYLORD",
+    "state": "MI",
+    "postalCode": "49735",
+    "locationName": "Sonoma, CA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604898",
+        "jobId": "JOB-US-0000011831",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-17",
+        "hoursPerWeek": 19,
+        "city": "GAYLORD",
+        "state": "MI",
+        "postalCode": "49735",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-21"
+      },
+      {
+        "scheduleId": "SCH-US-0000605156",
+        "jobId": "JOB-US-0000011831",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "GAYLORD",
+        "state": "MI",
+        "postalCode": "49735",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      },
+      {
+        "scheduleId": "SCH-US-0000605226",
+        "jobId": "JOB-US-0000011831",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "GAYLORD",
+        "state": "MI",
+        "postalCode": "49735",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-28"
+      },
+      {
+        "scheduleId": "SCH-US-0000603243",
+        "jobId": "JOB-US-0000011831",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-14",
+        "hoursPerWeek": 19,
+        "city": "GAYLORD",
+        "state": "MI",
+        "postalCode": "49735",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-18"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011834",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Traverse City",
+    "state": "MI",
+    "postalCode": "49685",
+    "locationName": "Traverse City, MI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604991",
+        "jobId": "JOB-US-0000011834",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Traverse City",
+        "state": "MI",
+        "postalCode": "49685",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014034",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Caribou",
+    "state": "ME",
+    "postalCode": "04736",
+    "locationName": "Caribou, ME",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604862",
+        "jobId": "JOB-US-0000014034",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Caribou",
+        "state": "ME",
+        "postalCode": "04736",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014710",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Kahului",
+    "state": "HI",
+    "postalCode": "96732",
+    "locationName": "Kahului, HI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605026",
+        "jobId": "JOB-US-0000014710",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-20",
+        "hoursPerWeek": 19,
+        "city": "Kahului",
+        "state": "HI",
+        "postalCode": "96732",
+        "basePayL10N": "$18.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.00",
+        "firstDayOnSiteL10N": "2025-08-24"
+      },
+      {
+        "scheduleId": "SCH-US-0000603439",
+        "jobId": "JOB-US-0000014710",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-13",
+        "hoursPerWeek": 19,
+        "city": "Kahului",
+        "state": "HI",
+        "postalCode": "96732",
+        "basePayL10N": "$18.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.00",
+        "firstDayOnSiteL10N": "2025-08-17"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015167",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Portsmouth",
+    "state": "NH",
+    "postalCode": "03801",
+    "locationName": "Portsmouth, NH",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604903",
+        "jobId": "JOB-US-0000015167",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-13",
+        "hoursPerWeek": 19,
+        "city": "Portsmouth",
+        "state": "NH",
+        "postalCode": "03801",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-08-17"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014722",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Kailua",
+    "state": "HI",
+    "postalCode": "96734",
+    "locationName": "Kailua, HI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000603173",
+        "jobId": "JOB-US-0000014722",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-13",
+        "hoursPerWeek": 19,
+        "city": "Kailua",
+        "state": "HI",
+        "postalCode": "96734",
+        "basePayL10N": "$16.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$16.50",
+        "firstDayOnSiteL10N": "2025-08-17"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014732",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Bozeman",
+    "state": "MT",
+    "postalCode": "59718",
+    "locationName": "Bozeman, MT",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605179",
+        "jobId": "JOB-US-0000014732",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-20",
+        "hoursPerWeek": 19,
+        "city": "Bozeman",
+        "state": "MT",
+        "postalCode": "59718",
+        "basePayL10N": "$16.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$16.00",
+        "firstDayOnSiteL10N": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010301",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Granville",
+    "state": "NY",
+    "postalCode": "12832",
+    "locationName": "Granville, NY",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606529",
+        "jobId": "JOB-US-0000010301",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Granville",
+        "state": "NY",
+        "postalCode": "12832",
+        "basePayL10N": "$20.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$20.00",
+        "firstDayOnSiteL10N": "2025-09-01"
+      },
+      {
+        "scheduleId": "SCH-US-0000606722",
+        "jobId": "JOB-US-0000010301",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Granville",
+        "state": "NY",
+        "postalCode": "12832",
+        "basePayL10N": "$20.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$20.00",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010779",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Montgomery",
+    "state": "PA",
+    "postalCode": "17752",
+    "locationName": "Montgomery, PA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606567",
+        "jobId": "JOB-US-0000010779",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Montgomery",
+        "state": "PA",
+        "postalCode": "17752",
+        "basePayL10N": "$20.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$20.00",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011612",
+    "jobTitle": "Amazon Sortation Center Warehouse Associate",
+    "jobType": "PART_TIME",
+    "employmentType": "Seasonal",
+    "city": "Uxbridge",
+    "state": "MA",
+    "postalCode": "01569",
+    "locationName": "Uxbridge, MA"
+  },
+  {
+    "jobId": "JOB-US-0000010416",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FLEX_TIME;FULL_TIME",
+    "employmentType": "Seasonal",
+    "city": "Charleston",
+    "state": "TN",
+    "postalCode": "37310",
+    "locationName": "Charleston, TN",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000607265",
+        "jobId": "JOB-US-0000010416",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-26",
+        "hoursPerWeek": 40,
+        "city": "Charleston",
+        "state": "TN",
+        "postalCode": "37310",
+        "basePayL10N": "$18.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      },
+      {
+        "scheduleId": "SCH-US-0000607353",
+        "jobId": "JOB-US-0000010416",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Charleston",
+        "state": "TN",
+        "postalCode": "37310",
+        "basePayL10N": "$18.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.00",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000012356",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Frankfort",
+    "state": "NY",
+    "postalCode": "13340",
+    "locationName": "Frankfort, NY",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606674",
+        "jobId": "JOB-US-0000012356",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Frankfort",
+        "state": "NY",
+        "postalCode": "13340",
+        "basePayL10N": "$19.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      },
+      {
+        "scheduleId": "SCH-US-0000606681",
+        "jobId": "JOB-US-0000012356",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Frankfort",
+        "state": "NY",
+        "postalCode": "13340",
+        "basePayL10N": "$19.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000012360",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FULL_TIME",
+    "employmentType": "Seasonal",
+    "city": "Louisville",
+    "state": "TN",
+    "postalCode": "37777",
+    "locationName": "Louisville, TN",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000607036",
+        "jobId": "JOB-US-0000012360",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-26",
+        "hoursPerWeek": 40,
+        "city": "Louisville",
+        "state": "TN",
+        "postalCode": "37777",
+        "basePayL10N": "$18.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011349",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FULL_TIME",
+    "employmentType": "Regular",
+    "city": "Durham",
+    "state": "NC",
+    "postalCode": "27703",
+    "locationName": "Durham, NC",
+    "schedules": []
+  },
+  {
+    "jobId": "JOB-US-0000011224",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "North Pekin",
+    "state": "IL",
+    "postalCode": "61554",
+    "locationName": "North Pekin, IL",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606726",
+        "jobId": "JOB-US-0000011224",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "North Pekin",
+        "state": "IL",
+        "postalCode": "61554",
+        "basePayL10N": "$18.75",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.75",
+        "firstDayOnSiteL10N": "2025-09-01"
+      },
+      {
+        "scheduleId": "SCH-US-0000606653",
+        "jobId": "JOB-US-0000011224",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "North Pekin",
+        "state": "IL",
+        "postalCode": "61554",
+        "basePayL10N": "$18.75",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.75",
+        "firstDayOnSiteL10N": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010428",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "postalCode": "83402",
+    "locationName": "Idaho Falls, ID",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606709",
+        "jobId": "JOB-US-0000010428",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Idaho Falls",
+        "state": "ID",
+        "postalCode": "83402",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      },
+      {
+        "scheduleId": "SCH-US-0000606606",
+        "jobId": "JOB-US-0000010428",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-31",
+        "hoursPerWeek": 19,
+        "city": "Idaho Falls",
+        "state": "ID",
+        "postalCode": "83402",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-04"
+      },
+      {
+        "scheduleId": "SCH-US-0000605037",
+        "jobId": "JOB-US-0000010428",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Idaho Falls",
+        "state": "ID",
+        "postalCode": "83402",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010563",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Bristol",
+    "state": "VA",
+    "postalCode": "24201",
+    "locationName": "Bristol, VA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606648",
+        "jobId": "JOB-US-0000010563",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Bristol",
+        "state": "VA",
+        "postalCode": "24201",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      },
+      {
+        "scheduleId": "SCH-US-0000606573",
+        "jobId": "JOB-US-0000010563",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-25",
+        "hoursPerWeek": 19,
+        "city": "Bristol",
+        "state": "VA",
+        "postalCode": "24201",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-29"
+      },
+      {
+        "scheduleId": "SCH-US-0000606546",
+        "jobId": "JOB-US-0000010563",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Bristol",
+        "state": "VA",
+        "postalCode": "24201",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010681",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Grand Island",
+    "state": "NE",
+    "postalCode": "68801",
+    "locationName": "Grand Island, NE",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606514",
+        "jobId": "JOB-US-0000010681",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-29",
+        "hoursPerWeek": 19,
+        "city": "Grand Island",
+        "state": "NE",
+        "postalCode": "68801",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-02"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011010",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Dubuque",
+    "state": "IA",
+    "postalCode": "52002",
+    "locationName": "Dubuque, IA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606426",
+        "jobId": "JOB-US-0000011010",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-29",
+        "hoursPerWeek": 19,
+        "city": "Dubuque",
+        "state": "IA",
+        "postalCode": "52002",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-02"
+      },
+      {
+        "scheduleId": "SCH-US-0000606761",
+        "jobId": "JOB-US-0000011010",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-09-01",
+        "hoursPerWeek": 19,
+        "city": "Dubuque",
+        "state": "IA",
+        "postalCode": "52002",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-05"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011133",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Casper",
+    "state": "WY",
+    "postalCode": "82604",
+    "locationName": "Casper, WY",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606488",
+        "jobId": "JOB-US-0000011133",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Casper",
+        "state": "WY",
+        "postalCode": "82604",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      },
+      {
+        "scheduleId": "SCH-US-0000606506",
+        "jobId": "JOB-US-0000011133",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "Casper",
+        "state": "WY",
+        "postalCode": "82604",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011322",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Evansville",
+    "state": "IN",
+    "postalCode": "47725",
+    "locationName": "Evansville, IN",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606710",
+        "jobId": "JOB-US-0000011322",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-31",
+        "hoursPerWeek": 19,
+        "city": "Evansville",
+        "state": "IN",
+        "postalCode": "47725",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-04"
+      },
+      {
+        "scheduleId": "SCH-US-0000603599",
+        "jobId": "JOB-US-0000011322",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-17",
+        "hoursPerWeek": 19,
+        "city": "Evansville",
+        "state": "IN",
+        "postalCode": "47725",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-21"
+      },
+      {
+        "scheduleId": "SCH-US-0000606403",
+        "jobId": "JOB-US-0000011322",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Evansville",
+        "state": "IN",
+        "postalCode": "47725",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011773",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Findlay",
+    "state": "OH",
+    "postalCode": "45840",
+    "locationName": "Findlay, OH",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606730",
+        "jobId": "JOB-US-0000011773",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-31",
+        "hoursPerWeek": 19,
+        "city": "Findlay",
+        "state": "OH",
+        "postalCode": "45840",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-04"
+      },
+      {
+        "scheduleId": "SCH-US-0000606636",
+        "jobId": "JOB-US-0000011773",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Findlay",
+        "state": "OH",
+        "postalCode": "45840",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      },
+      {
+        "scheduleId": "SCH-US-0000605044",
+        "jobId": "JOB-US-0000011773",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Findlay",
+        "state": "OH",
+        "postalCode": "45840",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011850",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Lafayette",
+    "state": "IN",
+    "postalCode": "47905",
+    "locationName": "Lafayette, IN",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606485",
+        "jobId": "JOB-US-0000011850",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Lafayette",
+        "state": "IN",
+        "postalCode": "47905",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000012319",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Ashland",
+    "state": "MO",
+    "postalCode": "65010",
+    "locationName": "Ashland, MO",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606615",
+        "jobId": "JOB-US-0000012319",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Ashland",
+        "state": "MO",
+        "postalCode": "65010",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000012355",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Conklin",
+    "state": "NY",
+    "postalCode": "13748",
+    "locationName": "Conklin, NY",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606750",
+        "jobId": "JOB-US-0000012355",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-31",
+        "hoursPerWeek": 19,
+        "city": "Conklin",
+        "state": "NY",
+        "postalCode": "13748",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-04"
+      },
+      {
+        "scheduleId": "SCH-US-0000606598",
+        "jobId": "JOB-US-0000012355",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-09-01",
+        "hoursPerWeek": 19,
+        "city": "Conklin",
+        "state": "NY",
+        "postalCode": "13748",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-05"
+      },
+      {
+        "scheduleId": "SCH-US-0000606472",
+        "jobId": "JOB-US-0000012355",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Conklin",
+        "state": "NY",
+        "postalCode": "13748",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011866",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FULL_TIME;REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Holbrook",
+    "state": "NY",
+    "postalCode": "11741",
+    "locationName": "Holbrook, NY"
+  },
+  {
+    "jobId": "JOB-US-0000010652",
+    "jobTitle": "Amazon Sortation Center Warehouse Associate",
+    "jobType": "PART_TIME",
+    "employmentType": "Seasonal",
+    "city": "Lenexa",
+    "state": "KS",
+    "postalCode": "66219",
+    "locationName": "Lenexa, KS"
+  },
+  {
+    "jobId": "JOB-US-0000011071",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FULL_TIME",
+    "employmentType": "Seasonal",
+    "city": "Fishersville",
+    "state": "VA",
+    "postalCode": "22939",
+    "locationName": "Fishersville, VA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606919",
+        "jobId": "JOB-US-0000011071",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 40,
+        "city": "Fishersville",
+        "state": "VA",
+        "postalCode": "22939",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$20.25",
+        "firstDayOnSiteL10N": "2025-08-28"
+      },
+      {
+        "scheduleId": "SCH-US-0000607192",
+        "jobId": "JOB-US-0000011071",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-26",
+        "hoursPerWeek": 40,
+        "city": "Fishersville",
+        "state": "VA",
+        "postalCode": "22939",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.65",
+        "firstDayOnSiteL10N": "2025-08-27"
+      },
+      {
+        "scheduleId": "SCH-US-0000607003",
+        "jobId": "JOB-US-0000011071",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 40,
+        "city": "Fishersville",
+        "state": "VA",
+        "postalCode": "22939",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.65",
+        "firstDayOnSiteL10N": "2025-08-25"
+      },
+      {
+        "scheduleId": "SCH-US-0000607010",
+        "jobId": "JOB-US-0000011071",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 40,
+        "city": "Fishersville",
+        "state": "VA",
+        "postalCode": "22939",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.65",
+        "firstDayOnSiteL10N": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011549",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Littleton",
+    "state": "MA",
+    "postalCode": "01460",
+    "locationName": "Littleton, MA"
+  },
+  {
+    "jobId": "JOB-US-0000011551",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Seasonal",
+    "city": "Revere",
+    "state": "MA",
+    "postalCode": "02151",
+    "locationName": "Revere, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606315",
+        "jobId": "JOB-US-0000011551",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-26",
+        "hoursPerWeek": 19,
+        "city": "Revere",
+        "state": "MA",
+        "postalCode": "02151",
+        "basePayL10N": "$20.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$20.00",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011594",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Seasonal",
+    "city": "Bellingham",
+    "state": "MA",
+    "postalCode": "02019",
+    "locationName": "Bellingham, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606161",
+        "jobId": "JOB-US-0000011594",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 19,
+        "city": "Bellingham",
+        "state": "MA",
+        "postalCode": "02019",
+        "basePayL10N": "$20.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$20.00",
+        "firstDayOnSiteL10N": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011598",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Middleborough",
+    "state": "MA",
+    "postalCode": "02346",
+    "locationName": "Middleborough, MA"
+  },
+  {
+    "jobId": "JOB-US-0000012335",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME;REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Danbury",
+    "state": "CT",
+    "postalCode": "06801",
+    "locationName": "Danbury, CT"
+  },
+  {
+    "jobId": "JOB-US-0000014670",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Sonoma",
+    "state": "CA",
+    "postalCode": "95476",
+    "locationName": "Mill Valley, CA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606577",
+        "jobId": "JOB-US-0000014670",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Sonoma",
+        "state": "CA",
+        "postalCode": "95476",
+        "basePayL10N": "$19.15",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.15",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011474",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Grand Junction",
+    "state": "CO",
+    "postalCode": "81506",
+    "locationName": "Grand Junction, CO",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606495",
+        "jobId": "JOB-US-0000011474",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Grand Junction",
+        "state": "CO",
+        "postalCode": "81506",
+        "basePayL10N": "$19.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.00",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014631",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "SANTA CRUZ",
+    "state": "CA",
+    "postalCode": "95062",
+    "locationName": "SANTA CRUZ, CA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606700",
+        "jobId": "JOB-US-0000014631",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "SANTA CRUZ",
+        "state": "CA",
+        "postalCode": "95062",
+        "basePayL10N": "$19.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$19.00",
+        "firstDayOnSiteL10N": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000010752",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "PART_TIME;REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Coraopolis",
+    "state": "PA",
+    "postalCode": "15108",
+    "locationName": "Coraopolis, PA"
+  },
+  {
+    "jobId": "JOB-US-0000010753",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "Sewickley",
+    "state": "PA",
+    "postalCode": "15143",
+    "locationName": "Sewickley, PA"
+  },
+  {
+    "jobId": "JOB-US-0000010758",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "REDUCED_TIME",
+    "employmentType": "Seasonal",
+    "city": "North Versailles",
+    "state": "PA",
+    "postalCode": "15137",
+    "locationName": "North Versailles, PA"
+  },
+  {
+    "jobId": "JOB-US-0000010285",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Albuquerque",
+    "state": "NM",
+    "postalCode": "87121",
+    "locationName": "Albuquerque, NM",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606677",
+        "jobId": "JOB-US-0000010285",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Albuquerque",
+        "state": "NM",
+        "postalCode": "87121",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011130",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Roanoke",
+    "state": "VA",
+    "postalCode": "24012",
+    "locationName": "Roanoke, VA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604895",
+        "jobId": "JOB-US-0000011130",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-21",
+        "hoursPerWeek": 19,
+        "city": "Roanoke",
+        "state": "VA",
+        "postalCode": "24012",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-25"
+      },
+      {
+        "scheduleId": "SCH-US-0000606489",
+        "jobId": "JOB-US-0000011130",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Roanoke",
+        "state": "VA",
+        "postalCode": "24012",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      },
+      {
+        "scheduleId": "SCH-US-0000606464",
+        "jobId": "JOB-US-0000011130",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-31",
+        "hoursPerWeek": 19,
+        "city": "Roanoke",
+        "state": "VA",
+        "postalCode": "24012",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-04"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011131",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Box Elder",
+    "state": "SD",
+    "postalCode": "57719",
+    "locationName": "Box Elder, SD",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606414",
+        "jobId": "JOB-US-0000011131",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-29",
+        "hoursPerWeek": 19,
+        "city": "Box Elder",
+        "state": "SD",
+        "postalCode": "57719",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-02"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011159",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "East WENATCHEE",
+    "state": "WA",
+    "postalCode": "98802",
+    "locationName": "East WENATCHEE, WA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606408",
+        "jobId": "JOB-US-0000011159",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "East WENATCHEE",
+        "state": "WA",
+        "postalCode": "98802",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011178",
+    "jobTitle": "Amazon Fulfillment Center Warehouse Associate",
+    "jobType": "FULL_TIME",
+    "employmentType": "Seasonal",
+    "city": "Pendergrass",
+    "state": "GA",
+    "postalCode": "30567",
+    "locationName": "Pendergrass, GA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606824",
+        "jobId": "JOB-US-0000011178",
+        "externalJobTitle": "Amazon Fulfillment Center Warehouse Associate",
+        "hireStartDate": "2025-08-26",
+        "hoursPerWeek": 40,
+        "city": "Pendergrass",
+        "state": "GA",
+        "postalCode": "30567",
+        "basePayL10N": "$18.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011221",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Paris",
+    "state": "TX",
+    "postalCode": "75460",
+    "locationName": "Paris, TX",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606433",
+        "jobId": "JOB-US-0000011221",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-29",
+        "hoursPerWeek": 19,
+        "city": "Paris",
+        "state": "TX",
+        "postalCode": "75460",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-02"
+      },
+      {
+        "scheduleId": "SCH-US-0000606594",
+        "jobId": "JOB-US-0000011221",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-25",
+        "hoursPerWeek": 19,
+        "city": "Paris",
+        "state": "TX",
+        "postalCode": "75460",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-29"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011485",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Jerome",
+    "state": "ID",
+    "postalCode": "83338",
+    "locationName": "Jerome, ID",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606776",
+        "jobId": "JOB-US-0000011485",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Jerome",
+        "state": "ID",
+        "postalCode": "83338",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011504",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Farmington",
+    "state": "NM",
+    "postalCode": "87401",
+    "locationName": "Farmington, NM",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606715",
+        "jobId": "JOB-US-0000011504",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Farmington",
+        "state": "NM",
+        "postalCode": "87401",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011829",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "postalCode": "48858",
+    "locationName": "Mount Pleasant, MI",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606735",
+        "jobId": "JOB-US-0000011829",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "Mount Pleasant",
+        "state": "MI",
+        "postalCode": "48858",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000011930",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Lowell",
+    "state": "AR",
+    "postalCode": "72745",
+    "locationName": "Lowell, AR",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606703",
+        "jobId": "JOB-US-0000011930",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Lowell",
+        "state": "AR",
+        "postalCode": "72745",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000012423",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Mason City",
+    "state": "IA",
+    "postalCode": "50401",
+    "locationName": "Mason City, IA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606541",
+        "jobId": "JOB-US-0000012423",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Mason City",
+        "state": "IA",
+        "postalCode": "50401",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000012425",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Saint George",
+    "state": "UT",
+    "postalCode": "84790",
+    "locationName": "Saint George, UT",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606512",
+        "jobId": "JOB-US-0000012425",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "Saint George",
+        "state": "UT",
+        "postalCode": "84790",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015187",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Jonesboro",
+    "state": "AR",
+    "postalCode": "72401",
+    "locationName": "Jonesboro, AR",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000604964",
+        "jobId": "JOB-US-0000015187",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Jonesboro",
+        "state": "AR",
+        "postalCode": "72401",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-08-27"
+      },
+      {
+        "scheduleId": "SCH-US-0000606694",
+        "jobId": "JOB-US-0000015187",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "Jonesboro",
+        "state": "AR",
+        "postalCode": "72401",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015198",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "San Angelo",
+    "state": "TX",
+    "postalCode": "76905",
+    "locationName": "San Angelo, TX",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606659",
+        "jobId": "JOB-US-0000015198",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-28",
+        "hoursPerWeek": 19,
+        "city": "San Angelo",
+        "state": "TX",
+        "postalCode": "76905",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-01"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015209",
+    "jobTitle": "Amazon Delivery Station Warehouse Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Naples City",
+    "state": "UT",
+    "postalCode": "84078",
+    "locationName": "Naples City, UT",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606707",
+        "jobId": "JOB-US-0000015209",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "Naples City",
+        "state": "UT",
+        "postalCode": "84078",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-03"
+      },
+      {
+        "scheduleId": "SCH-US-0000606587",
+        "jobId": "JOB-US-0000015209",
+        "externalJobTitle": "Amazon Delivery Station Warehouse Associate",
+        "hireStartDate": "2025-09-01",
+        "hoursPerWeek": 19,
+        "city": "Naples City",
+        "state": "UT",
+        "postalCode": "84078",
+        "basePayL10N": "$18.50",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.50",
+        "firstDayOnSiteL10N": "2025-09-05"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014909",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "postalCode": "86001",
+    "locationName": "Flagstaff, AZ",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606781",
+        "jobId": "JOB-US-0000014909",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-20",
+        "hoursPerWeek": 19,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "postalCode": "86001",
+        "basePayL10N": "$18.40",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$18.40",
+        "firstDayOnSiteL10N": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014723",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "postalCode": "02130",
+    "locationName": "Jamaica Plain, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605032",
+        "jobId": "JOB-US-0000014723",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-22",
+        "hoursPerWeek": 19,
+        "city": "Jamaica Plain",
+        "state": "MA",
+        "postalCode": "02130",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-08-26"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015115",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Albany",
+    "state": "NY",
+    "postalCode": "12205",
+    "locationName": "Albany, NY",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606632",
+        "jobId": "JOB-US-0000015115",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "Albany",
+        "state": "NY",
+        "postalCode": "12205",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015117",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Arlington",
+    "state": "MA",
+    "postalCode": "02476",
+    "locationName": "Arlington, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606563",
+        "jobId": "JOB-US-0000015117",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 19,
+        "city": "Arlington",
+        "state": "MA",
+        "postalCode": "02476",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-08-31"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015126",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Newtonville",
+    "state": "MA",
+    "postalCode": "02458",
+    "locationName": "Newtonville, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606496",
+        "jobId": "JOB-US-0000015126",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "Newtonville",
+        "state": "MA",
+        "postalCode": "02458",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015128",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Medford",
+    "state": "MA",
+    "postalCode": "02155",
+    "locationName": "Medford, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606656",
+        "jobId": "JOB-US-0000015128",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 19,
+        "city": "Medford",
+        "state": "MA",
+        "postalCode": "02155",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-08-31"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015131",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Lynnfield",
+    "state": "MA",
+    "postalCode": "01940",
+    "locationName": "Lynnfield, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606614",
+        "jobId": "JOB-US-0000015131",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 19,
+        "city": "Lynnfield",
+        "state": "MA",
+        "postalCode": "01940",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-08-31"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015134",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Sudbury",
+    "state": "MA",
+    "postalCode": "01776",
+    "locationName": "Sudbury, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606737",
+        "jobId": "JOB-US-0000015134",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 19,
+        "city": "Sudbury",
+        "state": "MA",
+        "postalCode": "01776",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-08-31"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015163",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Nashua",
+    "state": "NH",
+    "postalCode": "03063",
+    "locationName": "Nashua, NH",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606576",
+        "jobId": "JOB-US-0000015163",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-31",
+        "hoursPerWeek": 19,
+        "city": "Nashua",
+        "state": "NH",
+        "postalCode": "03063",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-09-04"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015177",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Wellesley",
+    "state": "MA",
+    "postalCode": "02482",
+    "locationName": "Wellesley, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606687",
+        "jobId": "JOB-US-0000015177",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-20",
+        "hoursPerWeek": 19,
+        "city": "Wellesley",
+        "state": "MA",
+        "postalCode": "02482",
+        "basePayL10N": "$17.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.25",
+        "firstDayOnSiteL10N": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015113",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Brookline",
+    "state": "MA",
+    "postalCode": "02215",
+    "locationName": "Brookline, MA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606539",
+        "jobId": "JOB-US-0000015113",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-20",
+        "hoursPerWeek": 19,
+        "city": "Brookline",
+        "state": "MA",
+        "postalCode": "02215",
+        "basePayL10N": "$17.05",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.05",
+        "firstDayOnSiteL10N": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014244",
+    "jobTitle": "Amazon Fresh Grocery Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Eatontown",
+    "state": "NJ",
+    "postalCode": "07724",
+    "locationName": "Eatontown, NJ",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606130",
+        "jobId": "JOB-US-0000014244",
+        "externalJobTitle": "Amazon Fresh Grocery Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Eatontown",
+        "state": "NJ",
+        "postalCode": "07724",
+        "basePayL10N": "$17.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.00",
+        "firstDayOnSiteL10N": "2025-08-25"
+      },
+      {
+        "scheduleId": "SCH-US-0000606128",
+        "jobId": "JOB-US-0000014244",
+        "externalJobTitle": "Amazon Fresh Grocery Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Eatontown",
+        "state": "NJ",
+        "postalCode": "07724",
+        "basePayL10N": "$17.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.00",
+        "firstDayOnSiteL10N": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014502",
+    "jobTitle": "Amazon Fresh Kitchen Associate",
+    "jobType": "PART_TIME",
+    "employmentType": "Regular",
+    "city": "Warrington",
+    "state": "PA",
+    "postalCode": "18976",
+    "locationName": "Warrington, PA"
+  },
+  {
+    "jobId": "JOB-US-0000014965",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Wall Township",
+    "state": "NJ",
+    "postalCode": "07719",
+    "locationName": "Wall Township, NJ",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606640",
+        "jobId": "JOB-US-0000014965",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-24",
+        "hoursPerWeek": 19,
+        "city": "Wall Township",
+        "state": "NJ",
+        "postalCode": "07719",
+        "basePayL10N": "$17.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.00",
+        "firstDayOnSiteL10N": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014966",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postalCode": "15241",
+    "locationName": "Pittsburgh, PA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606591",
+        "jobId": "JOB-US-0000014966",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-23",
+        "hoursPerWeek": 19,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15241",
+        "basePayL10N": "$17.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.00",
+        "firstDayOnSiteL10N": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015024",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postalCode": "15206",
+    "locationName": "Pittsburgh, PA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606764",
+        "jobId": "JOB-US-0000015024",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 19,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15206",
+        "basePayL10N": "$17.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$17.00",
+        "firstDayOnSiteL10N": "2025-08-31"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015020",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "West Lafayette",
+    "state": "IN",
+    "postalCode": "47907",
+    "locationName": "West Lafayette, IN",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606698",
+        "jobId": "JOB-US-0000015020",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-30",
+        "hoursPerWeek": 19,
+        "city": "West Lafayette",
+        "state": "IN",
+        "postalCode": "47907",
+        "basePayL10N": "$16.75",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$16.75",
+        "firstDayOnSiteL10N": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000015146",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Destin",
+    "state": "FL",
+    "postalCode": "32541",
+    "locationName": "Destin, FL",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000605175",
+        "jobId": "JOB-US-0000015146",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-20",
+        "hoursPerWeek": 19,
+        "city": "Destin",
+        "state": "FL",
+        "postalCode": "32541",
+        "basePayL10N": "$16.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$16.25",
+        "firstDayOnSiteL10N": "2025-08-24"
+      },
+      {
+        "scheduleId": "SCH-US-0000606456",
+        "jobId": "JOB-US-0000015146",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 19,
+        "city": "Destin",
+        "state": "FL",
+        "postalCode": "32541",
+        "basePayL10N": "$16.25",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$16.25",
+        "firstDayOnSiteL10N": "2025-08-31"
+      }
+    ]
+  },
+  {
+    "jobId": "JOB-US-0000014768",
+    "jobTitle": "Amazon Locker+ Retail Associate",
+    "jobType": "FLEX_TIME",
+    "employmentType": "Regular",
+    "city": "Charlottesville",
+    "state": "VA",
+    "postalCode": "22901",
+    "locationName": "Charlottesville, VA",
+    "schedules": [
+      {
+        "scheduleId": "SCH-US-0000606675",
+        "jobId": "JOB-US-0000014768",
+        "externalJobTitle": "Amazon Locker+ Retail Associate",
+        "hireStartDate": "2025-08-27",
+        "hoursPerWeek": 19,
+        "city": "Charlottesville",
+        "state": "VA",
+        "postalCode": "22901",
+        "basePayL10N": "$16.00",
+        "signOnBonusL10N": null,
+        "totalPayRateL10N": "$16.00",
+        "firstDayOnSiteL10N": "2025-08-31"
+      }
+    ]
+  }
+]
